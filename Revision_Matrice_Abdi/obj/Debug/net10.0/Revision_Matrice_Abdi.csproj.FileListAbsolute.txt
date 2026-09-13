@@ -1,0 +1,14 @@
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\bin\Debug\net10.0\Revision_Matrice_Abdi.exe
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\bin\Debug\net10.0\Revision_Matrice_Abdi.deps.json
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\bin\Debug\net10.0\Revision_Matrice_Abdi.runtimeconfig.json
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\bin\Debug\net10.0\Revision_Matrice_Abdi.dll
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\bin\Debug\net10.0\Revision_Matrice_Abdi.pdb
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\obj\Debug\net10.0\Revision_Matrice_Abdi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\obj\Debug\net10.0\Revision_Matrice_Abdi.AssemblyInfoInputs.cache
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\obj\Debug\net10.0\Revision_Matrice_Abdi.AssemblyInfo.cs
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\obj\Debug\net10.0\Revision_Matrice_Abdi.csproj.CoreCompileInputs.cache
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\obj\Debug\net10.0\Revision_Matrice_Abdi.dll
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\obj\Debug\net10.0\refint\Revision_Matrice_Abdi.dll
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\obj\Debug\net10.0\Revision_Matrice_Abdi.pdb
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\obj\Debug\net10.0\Revision_Matrice_Abdi.genruntimeconfig.cache
+C:\Users\Oxfam\Downloads\Revision_Matrice_Abdi\obj\Debug\net10.0\ref\Revision_Matrice_Abdi.dll
